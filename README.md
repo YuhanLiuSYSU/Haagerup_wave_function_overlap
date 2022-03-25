@@ -11,4 +11,10 @@ Created and maintained by Yuhan Liu. The code is written in python.
 * `decomp_ch.py` contains the function that allows for simultanesouly diagonalization.  
 
 ## puMPS
-Created and maintained by Yijian Zou. The code is written in Julia
+Created and maintained by Yijian Zou. The code is written in Julia.
+* Code based on an earlier work (puMPS.jl) with Ashley Milsted and Guifre Vidal, https://github.com/FuTen/puMPS.jl
+* 'SymTensor_v2.jl' contains basic operations of symmetric tensors with Abliean symmetries (currently support Z_N and U(1))
+* 'sym_puMPS_v2.jl' contains puMPS algorithm using symmetric tensors. Performance in memory cost has been improved.
+* 'overlap.jl' contains algorithm to compute wavefunction overlaps from puMPS and puMPS Bloch states.
+* 'Haagerup_symMPO.jl' contains the MPO of the Haagerup model, both in dense tensors and symmetric tensors.
+
