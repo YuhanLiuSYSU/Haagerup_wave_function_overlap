@@ -17,4 +17,4 @@ Created and maintained by Yijian Zou. The code is written in Julia.
 * 'sym_puMPS_v2.jl' contains puMPS algorithm using symmetric tensors. Performance in memory cost has been improved.
 * 'overlap.jl' contains algorithm to compute wavefunction overlaps from puMPS and puMPS Bloch states.
 * 'Haagerup_symMPO.jl' contains the MPO of the Haagerup model, both in dense tensors and symmetric tensors.
-
+* A ready-to-run example of the code is included in the jupyter notebook. The jld files are needed to run the example.
