@@ -1,6 +1,6 @@
 # Haagerup_wave_function_overlap
 
-Code for our paper: Operator fusion from wavefunction overlaps: Universal finite-size corrections and application to Haagerup model. Authors: Yuhan Liu, Yijian Zou, Shinsei Ryu. arXiv: xxxx.xxxxx
+Code for our paper: Operator fusion from wavefunction overlaps: Universal finite-size corrections and application to Haagerup model. Authors: Yuhan Liu, Yijian Zou, Shinsei Ryu. arXiv: 2203.14992
 
 ## ED (exact diagonalization)
 Created and maintained by Yuhan Liu. The code is written in python.
